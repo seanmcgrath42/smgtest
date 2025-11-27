@@ -1,0 +1,2 @@
+# smgtest
+SMG test gitbook
