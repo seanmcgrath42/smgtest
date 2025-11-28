@@ -1,2 +1,3 @@
-# smgtest
-SMG test gitbook
+# SMG Page
+
+This is a page&#x20;
